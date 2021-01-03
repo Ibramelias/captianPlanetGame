@@ -69,3 +69,17 @@ img{
 .captain{
     position: relative;
 }
+
+
+
+@media screen and (max-width: 768px) {
+    .container-main{
+        width: 125%;
+        /* height: 10vh; */
+        margin: 0 ;
+    }
+
+    #control{
+        width: 100%;
+    }
+}

@@ -62,7 +62,7 @@ $(document).ready(function () {
         captain.animate({ top: "+=200px" }, "normal");
     })
     $(".btn-go").on("click", function () {
-        captain.animate({ top: "50px", left: "80px" }, "fast");
+        captain.animate({ top: "50px", left: "80px", height: "300px" , opacity: "1" }, "fast");
     })
 
 
