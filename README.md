@@ -14,4 +14,8 @@ Or let him move around the page with captain planet song.
 
 
 ## Supportive Image
-![](img/Screen%20Shot%202021-01-03%20at%6.02.48%20PM.png)
+![](assets/img/Screen%20Shot%202021-01-03%20at%206.02.48%20PM.png)
+
+
+
+
